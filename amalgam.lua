@@ -1,3 +1,7 @@
+-- Copyright 2013 Joseph Mucchiello
+-- All Rights Reserved.
+-- This file is not subject to the LICENSE shipped with the rest of the code.
+--
 -- tested only on LUA 5.1
 --
 -- Simple Amalgam Grammar
